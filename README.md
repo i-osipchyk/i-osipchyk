@@ -1,8 +1,5 @@
 # Hi 👋, I'm Ivan Osipchyk
 
-<!--
-**i-osipchyk/i-osipchyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Data Science Intern in GIST and AI Enthusiast.
 
 - 🔭 I’m currently working on Hierarchical Time Series Forecasting
@@ -10,7 +7,7 @@ Data Science Intern in GIST and AI Enthusiast.
 - 🤔 I’m looking for help with Being a Full-time Data Scientist:)
 - 💬 Ask me about AI
 - 📫 How to reach me: https://www.linkedin.com/in/ivan-osipchyk/
--->
+
 
 ## Connect with me
 
