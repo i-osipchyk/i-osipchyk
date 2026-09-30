@@ -1,11 +1,11 @@
-# Hi 👋, I'm Ivan Osipchyk
+# Hi 👋, I'm Vanya Osipchyk
 
-Data Science Intern in GIST and AI Enthusiast.
+AI Consultant in Accenture and AI Enthusiast.
 
-- 🔭 I’m currently working on Hierarchical Time Series Forecasting
-- 🌱 I’m currently learning Computer Vision Systems
-- 🤔 I’m looking for help with Being a Full-time Data Scientist:)
-- 💬 Ask me about AI
+- 🔭 I’m currently working on AI Application in Sales
+- 🌱 I’m currently learning Financial Engineering
+- 🤔 I’m looking for help with Being a Full-time Quant:)
+- 💬 Ask me about Triathlon
 - 📫 How to reach me: https://www.linkedin.com/in/ivan-osipchyk/
 
 ## Skills that I have experience with:
